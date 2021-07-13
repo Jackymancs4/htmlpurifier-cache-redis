@@ -1,0 +1,19 @@
+{
+    "name": "jackymancs4/htmlpurifier-cache-redis",
+    "type": "library",
+    "require": {
+        "ezyang/htmlpurifier": "^4.13"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jackymancs4\\HtmlpurifierCacheRedis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giacomo Rossetto",
+            "email": "jackyman_cs4@live.it"
+        }
+    ]
+}
